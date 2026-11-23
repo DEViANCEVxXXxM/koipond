@@ -1,6 +1,9 @@
 # Zen Koi Pond
 
 Independent interactive visualization with DEVIANCE / ATELIER Solo UI.
+
+## Try it
+
 Open on [GitHub Pages](https://deviancevxxxxm.github.io/koipond/)
 
 ## Run locally
